@@ -116,6 +116,6 @@ body {
     position: absolute; /* o absolute si lo deseas fuera del flujo normal */
     top: 580px; /* Desplaza hacia abajo */
     left: 50px; /* Desplaza hacia la derecha */
-    right: 5px;
+    right: 10px;
     /* Puedes ajustar estos valores según sea necesario */
 }
