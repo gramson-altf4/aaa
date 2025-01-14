@@ -114,7 +114,7 @@ body {
 
 #proximamente {
     position: absolute; /* o absolute si lo deseas fuera del flujo normal */
-    top: 600px; /* Desplaza hacia abajo */
+    top: 580px; /* Desplaza hacia abajo */
     left: 50px; /* Desplaza hacia la derecha */
     right: 10px;
     /* Puedes ajustar estos valores según sea necesario */
